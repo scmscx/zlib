@@ -24,3 +24,6 @@
 /configure.log
 
 .DS_Store
+
+Makefile
+zconf.h
